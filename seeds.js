@@ -1,3 +1,4 @@
+////12312!!!!1133
 var Campground = require('./models/campground'),
   Comment = require('./models/comment'),
   User = require('./models/user');
@@ -15,7 +16,7 @@ var campgroundData = [
     },
   {
     name: 'Wildwood Campground',
-    image: 'https://farm5.staticflickr.com/4016/4369518024_0f64300987.jpg',
+    image: 'https://farm5.staticflickr.com/4016/4369518024_0f64300987.jpg', 
     description: 'All campsites.  All the time.Short ribs pastrami drumstick.'
     },
   {
