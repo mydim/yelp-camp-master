@@ -1,4 +1,4 @@
-////12312!!!!1133
+////test
 var Campground = require('./models/campground'),
   Comment = require('./models/comment'),
   User = require('./models/user');
